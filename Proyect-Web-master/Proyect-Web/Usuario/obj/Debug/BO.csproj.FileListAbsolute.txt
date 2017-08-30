@@ -1,0 +1,22 @@
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Usuario\bin\Debug\Usuario.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Usuario\bin\Debug\Usuario.pdb
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Usuario\obj\Debug\BO.csprojResolveAssemblyReference.cache
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Usuario\obj\Debug\Usuario.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Usuario\obj\Debug\Usuario.pdb
+C:\Users\Santiago\Desktop\Proyect-Web\Usuario\bin\Debug\Usuario.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Usuario\bin\Debug\Usuario.pdb
+C:\Users\Santiago\Desktop\Proyect-Web\Usuario\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Desktop\Proyect-Web\Usuario\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyect-Web\Usuario\obj\Debug\Usuario.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Usuario\obj\Debug\Usuario.pdb
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Usuario\bin\Debug\Usuario.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Usuario\bin\Debug\Usuario.pdb
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Usuario\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Usuario\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Usuario\obj\Debug\Usuario.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Usuario\obj\Debug\Usuario.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Usuario\bin\Debug\Usuario.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Usuario\bin\Debug\Usuario.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Usuario\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Usuario\obj\Debug\Usuario.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Usuario\obj\Debug\Usuario.pdb

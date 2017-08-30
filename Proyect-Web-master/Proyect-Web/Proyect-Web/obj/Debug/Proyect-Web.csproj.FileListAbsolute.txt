@@ -1,0 +1,158 @@
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\ApplicationInsights.config
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\csc.exe
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\vbc.exe
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\VBCSCompiler.exe
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Proyect-Web.dll.config
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Proyect-Web.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Proyect-Web.pdb
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Web.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.AI.WindowsServer.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.ApplicationInsights.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Web.xml
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.AI.WindowsServer.xml
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.ApplicationInsights.xml
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.csprojResolveAssemblyReference.cache
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.pdb
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\DAO.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Servicio.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Usuario.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\DAO.pdb
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Servicio.pdb
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Proyect-Web\bin\Usuario.pdb
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\ApplicationInsights.config
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\csc.exe
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\vbc.exe
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Proyect-Web.dll.config
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Proyect-Web.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Proyect-Web.pdb
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\DAO.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Web.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Servicio.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Usuario.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\DAO.pdb
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Servicio.pdb
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Usuario.pdb
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Web.xml
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.pdb
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\ApplicationInsights.config
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\csc.exe
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\vbc.exe
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Proyect-Web.dll.config
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Proyect-Web.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Proyect-Web.pdb
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\DAO.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Web.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Servicio.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Usuario.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\DAO.pdb
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Servicio.pdb
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Usuario.pdb
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Web.xml
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.csprojResolveAssemblyReference.cache
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\obj\Debug\Proyect-Web.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\ApplicationInsights.config
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\csc.exe
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\vbc.exe
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Proyect-Web.dll.config
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Proyect-Web.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Proyect-Web.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\DAO.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Web.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Servicio.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Usuario.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\DAO.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Servicio.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Usuario.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.Web.xml
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Proyect-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

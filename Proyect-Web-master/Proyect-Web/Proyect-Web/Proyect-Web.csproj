@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EAA47612-2ED2-4119-BFDC-FC7829FB984E}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proyect_Web</RootNamespace>
+    <AssemblyName>Proyect-Web</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.AI.Agent.Intercept, Version=2.0.6.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.2.0.6\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.DependencyCollector, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.2.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.PerfCounterCollector, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.Web, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.2.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.WindowsServer, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.2.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.2.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\img\28-1.jpg" />
+    <Content Include="assets\img\fondo.jpg" />
+    <Content Include="assets\js\jquery-1.10.2.js" />
+    <Content Include="Carrusel\jquery-1.10.2.min.js" />
+    <Content Include="Carrusel\jquery.mousewheel-3.0.6.min.js" />
+    <Content Include="Carrusel\jquery.rondell.css" />
+    <Content Include="Carrusel\jquery.rondell.min.js" />
+    <Content Include="Carrusel\modernizr-2.0.6.min.js" />
+    <Content Include="ClockPicker\bootstrap-clockpicker.css" />
+    <Content Include="ClockPicker\bootstrap-clockpicker.js" />
+    <Content Include="ClockPicker\clockpicker.css" />
+    <Content Include="ClockPicker\clockpicker.js" />
+    <Content Include="ClockPicker\standalone.css" />
+    <Content Include="dist\css\images\blank.gif" />
+    <Content Include="dist\css\images\closedhand.cur" />
+    <Content Include="dist\css\images\openhand.cur" />
+    <Content Include="dist\css\slider-pro.css" />
+    <Content Include="dist\css\slider-pro.min.css" />
+    <Content Include="dist\js\jquery-1.11.0.min.js" />
+    <Content Include="dist\js\jquery.sliderPro.js" />
+    <Content Include="dist\js\jquery.sliderPro.min.js" />
+    <Content Include="FlatPicker\flatpickr.min.css" />
+    <Content Include="FlatPicker\flatpickr.min.js" />
+    <Content Include="FlatPicker\themes\airbnb.css" />
+    <Content Include="FlatPicker\themes\confetti.css" />
+    <Content Include="FlatPicker\themes\dark.css" />
+    <Content Include="FlatPicker\themes\light.css" />
+    <Content Include="FlatPicker\themes\material_blue.css" />
+    <Content Include="FlatPicker\themes\material_green.css" />
+    <Content Include="FlatPicker\themes\material_orange.css" />
+    <Content Include="FlatPicker\themes\material_red.css" />
+    <Content Include="GUI\Back-end\Eventos.aspx" />
+    <Content Include="GUI\Back-end\Ubicaciones.aspx" />
+    <Content Include="GUI\Front-end\css\freelancer.css" />
+    <Content Include="GUI\Front-end\css\freelancer.min.css" />
+    <Content Include="GUI\Front-end\EventosF.aspx" />
+    <Content Include="GUI\Front-end\img\portfolio\cabin.png" />
+    <Content Include="GUI\Front-end\img\portfolio\cake.png" />
+    <Content Include="GUI\Front-end\img\portfolio\circus.png" />
+    <Content Include="GUI\Front-end\img\portfolio\game.png" />
+    <Content Include="GUI\Front-end\img\portfolio\safe.png" />
+    <Content Include="GUI\Front-end\img\portfolio\submarine.png" />
+    <Content Include="GUI\Front-end\img\profile.png" />
+    <Content Include="GUI\Front-end\index.html" />
+    <Content Include="GUI\Front-end\js\contact_me.js" />
+    <Content Include="GUI\Front-end\js\freelancer.js" />
+    <Content Include="GUI\Front-end\js\freelancer.min.js" />
+    <Content Include="GUI\Front-end\js\jqBootstrapValidation.js" />
+    <Content Include="GUI\Front-end\mail\contact_me.php" />
+    <Content Include="GUI\Front-end\vendor\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="GUI\Front-end\vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="GUI\Front-end\vendor\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="GUI\Front-end\vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="GUI\Front-end\vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="GUI\Front-end\vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="GUI\Front-end\vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="GUI\Front-end\vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\css\font-awesome.css" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\css\font-awesome.min.css" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="GUI\Front-end\vendor\jquery-easing\jquery.easing.compatibility.js" />
+    <Content Include="GUI\Front-end\vendor\jquery-easing\jquery.easing.js" />
+    <Content Include="GUI\Front-end\vendor\jquery-easing\jquery.easing.min.js" />
+    <Content Include="GUI\Front-end\vendor\jquery\jquery.js" />
+    <Content Include="GUI\Front-end\vendor\jquery\jquery.min.js" />
+    <Content Include="GUI\Front-end\vendor\popper\popper.js" />
+    <Content Include="GUI\Front-end\vendor\popper\popper.min.js" />
+    <Content Include="GUI\Front-end\Registro.aspx" />
+    <Content Include="Img\subirfoto.jpg" />
+    <Content Include="MapPicker\locationpicker.jquery.js" />
+    <Content Include="Menu\font-awesome.min.css" />
+    <Content Include="Menu\jquery.min.js" />
+    <Content Include="Menu\jquery.popmenu.js" />
+    <Content Include="obj\index.html" />
+    <Content Include="packages.config" />
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GUI\Back-end\Sit.Master" />
+    <Content Include="GUI\Front-end\scss\freelancer.scss" />
+    <Content Include="GUI\Front-end\scss\_bootstrap-overrides.scss" />
+    <Content Include="GUI\Front-end\scss\_contact.scss" />
+    <Content Include="GUI\Front-end\scss\_global.scss" />
+    <Content Include="GUI\Front-end\scss\_masthead.scss" />
+    <Content Include="GUI\Front-end\scss\_mixins.scss" />
+    <Content Include="GUI\Front-end\scss\_navbar.scss" />
+    <Content Include="GUI\Front-end\scss\_portfolio.scss" />
+    <Content Include="GUI\Front-end\scss\_variables.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\animated.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\bordered-pulled.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\core.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\fixed-width.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\font-awesome.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\icons.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\larger.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\list.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\mixins.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\path.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\rotated-flipped.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\screen-reader.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\stacked.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\less\variables.less" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\font-awesome.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_animated.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_core.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_fixed-width.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_icons.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_larger.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_list.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_mixins.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_path.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_screen-reader.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_stacked.scss" />
+    <Content Include="GUI\Front-end\vendor\font-awesome\scss\_variables.scss" />
+    <Content Include="Index.Master" />
+    <Content Include="PruebaCarrusel.aspx" />
+    <Content Include="Select\bootstrap-multiselect.css" />
+    <Content Include="Select\bootstrap-multiselect.js" />
+    <Content Include="Site1.Master" />
+    <Content Include="assets\js\jquery-1.10.2.min.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\css\animate.min.css" />
+    <Content Include="assets\css\semantic.min.css" />
+    <Content Include="blank.html" />
+    <Content Include="file.css" />
+    <Content Include="file.js" />
+    <Content Include="GUI\Front-end\Login.aspx" />
+    <Content Include="Preloader.css" />
+    <Content Include="Registro.aspx" />
+    <Content Include="SweetAlert\facebook.css" />
+    <Content Include="SweetAlert\google.css" />
+    <Content Include="SweetAlert\sweetalert.css" />
+    <Content Include="SweetAlert\sweetalert.min.js" />
+    <Content Include="SweetAlert\twitter.css" />
+    <Content Include="SwetAlert.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="GUI\Back-end\HomeOrg.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUI\Back-end\Eventos.aspx.cs">
+      <DependentUpon>Eventos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GUI\Back-end\Eventos.aspx.designer.cs">
+      <DependentUpon>Eventos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Back-end\Ubicaciones.aspx.cs">
+      <DependentUpon>Ubicaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GUI\Back-end\Ubicaciones.aspx.designer.cs">
+      <DependentUpon>Ubicaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Front-end\EventosF.aspx.cs">
+      <DependentUpon>EventosF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GUI\Front-end\EventosF.aspx.designer.cs">
+      <DependentUpon>EventosF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Front-end\Registro.aspx.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GUI\Front-end\Registro.aspx.designer.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Index.Master.cs">
+      <DependentUpon>Index.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Index.Master.designer.cs">
+      <DependentUpon>Index.Master</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Front-end\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GUI\Front-end\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GUI\Back-end\Sit.Master.cs">
+      <DependentUpon>Sit.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GUI\Back-end\Sit.Master.designer.cs">
+      <DependentUpon>Sit.Master</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Back-end\HomeOrg.aspx.cs">
+      <DependentUpon>HomeOrg.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GUI\Back-end\HomeOrg.aspx.designer.cs">
+      <DependentUpon>HomeOrg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PruebaCarrusel.aspx.cs">
+      <DependentUpon>PruebaCarrusel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PruebaCarrusel.aspx.designer.cs">
+      <DependentUpon>PruebaCarrusel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro.aspx.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro.aspx.designer.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SwetAlert.aspx.cs">
+      <DependentUpon>SwetAlert.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SwetAlert.aspx.designer.cs">
+      <DependentUpon>SwetAlert.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAO\DAO.csproj">
+      <Project>{b3932e3f-9300-4b91-b811-61a9e04fa4db}</Project>
+      <Name>DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Servicio\Servicio.csproj">
+      <Project>{f474d145-30b8-41bd-82db-65a93151d305}</Project>
+      <Name>Servicio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Usuario\BO.csproj">
+      <Project>{a781a7e9-b449-4081-bd3c-a59d9e97420f}</Project>
+      <Name>BO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49375</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49375/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

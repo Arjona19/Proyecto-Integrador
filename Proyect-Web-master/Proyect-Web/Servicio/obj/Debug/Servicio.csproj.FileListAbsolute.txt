@@ -1,0 +1,38 @@
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Servicio\bin\Debug\Servicio.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Servicio\bin\Debug\Servicio.pdb
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Servicio\bin\Debug\DAO.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Servicio\bin\Debug\Usuario.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Servicio\bin\Debug\DAO.pdb
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Servicio\bin\Debug\Usuario.pdb
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Servicio\obj\Debug\Servicio.csprojResolveAssemblyReference.cache
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Servicio\obj\Debug\Servicio.dll
+c:\users\wilberth\documents\visual studio 2015\Projects\Proyect-Web\Servicio\obj\Debug\Servicio.pdb
+C:\Users\Santiago\Desktop\Proyect-Web\Servicio\bin\Debug\Servicio.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Servicio\bin\Debug\Servicio.pdb
+C:\Users\Santiago\Desktop\Proyect-Web\Servicio\bin\Debug\DAO.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Servicio\bin\Debug\Usuario.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Servicio\bin\Debug\DAO.pdb
+C:\Users\Santiago\Desktop\Proyect-Web\Servicio\bin\Debug\Usuario.pdb
+C:\Users\Santiago\Desktop\Proyect-Web\Servicio\obj\Debug\Servicio.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Desktop\Proyect-Web\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Proyect-Web\Servicio\obj\Debug\Servicio.dll
+C:\Users\Santiago\Desktop\Proyect-Web\Servicio\obj\Debug\Servicio.pdb
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\Servicio.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\Servicio.pdb
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\DAO.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\Usuario.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\DAO.pdb
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\Usuario.pdb
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Servicio\obj\Debug\Servicio.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Servicio\obj\Debug\Servicio.dll
+C:\Users\Santiago\Documents\Proyect-Web\Proyect-Web\Servicio\obj\Debug\Servicio.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\Servicio.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\Servicio.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\DAO.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\Usuario.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\DAO.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Servicio\bin\Debug\Usuario.pdb
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Servicio\obj\Debug\Servicio.csprojResolveAssemblyReference.cache
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Servicio\obj\Debug\Servicio.dll
+C:\Users\WILBERTH\Documents\Proyect-Web\Proyect-Web\Servicio\obj\Debug\Servicio.pdb
